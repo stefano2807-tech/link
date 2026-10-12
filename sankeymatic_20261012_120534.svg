@@ -1,0 +1,68 @@
+<svg height="600" width="700" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 12/10/2026, 12:05:34 -->
+<rect height="600" width="700" fill="#ffffff"></rect>
+<g transform="translate(152.32963,18)">
+<g id="sankey_flows">
+<path id="flow2" d="M153.65204 183.66552C251.44825 183.66552 251.44825 143.77943 349.24446 143.77943" fill="none" stroke-width="262.48381" stroke="#ec1313" opacity="0.45"><title>Energia totale → Edificio Principale: 3.76</title></path>
+<path id="flow0" d="M8 156.40936C76.82602 156.40936 76.82602 176.68456 145.65204 176.68456" fill="none" stroke-width="248.5219" stroke="#ec1313" opacity="0.45"><title>Energia importata → Energia totale: 3.56</title></path>
+<path id="flow1" d="M9.00063 334.065C77.32634 334.065 77.32634 323.28456 145.65204 323.28456" fill="none" stroke-width="44.6781" stroke="#090" opacity="0.45"><title>Energia fotovoltaico → Energia totale: 0.64</title></path>
+<path id="flow3" d="M153.65204 330.26552C235.24374 330.26552 235.24374 374.47179 316.83543 374.47179" fill="none" stroke-width="30.71619" stroke="#ec1313" opacity="0.45"><title>Energia totale → Edificio Laboratorio: 0.44</title></path>
+<path id="flow5" d="M324.83543 381.80179C380.4042 381.80179 380.4042 425.38798 435.97297 425.38798" fill="none" stroke-width="16.05619" stroke="#ec1313" opacity="0.45"><title>Edificio Laboratorio → altre utenze: 0.23</title></path>
+<path id="flow4" d="M324.83543 366.4437C372.54773 366.4437 372.54773 323.2019 420.26003 323.2019" fill="none" stroke-width="14.66" stroke="#ec1313" opacity="0.45"><title>Edificio Laboratorio → UTA-Clima: 0.21</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0_border" class="for_r0" x="0" y="32.14841" height="248.5219" width="8" stroke="rgb(13, 77, 58)" stroke-width="8" fill="none"></rect>
+<rect id="r0" class="for_r0" x="0" y="32.14841" height="248.5219" width="8" fill="#1b9e77" fill-opacity="0"><title>Energia importata:
+3.56</title></rect>
+</g>
+<g class="node">
+<rect id="r1_border" class="for_r1" x="145.65204" y="52.42361" height="293.2" width="8" stroke="rgb(13, 77, 58)" stroke-width="8" fill="none"></rect>
+<rect id="r1" class="for_r1" x="145.65204" y="52.42361" height="293.2" width="8" fill="#1b9e77" fill-opacity="0"><title>Energia totale:
+4.20</title></rect>
+</g>
+<g class="node">
+<rect id="r2_border" class="for_r2" x="0" y="413.72632" height="44.6781" width="8" stroke="rgb(13, 77, 58)" stroke-width="8" fill="none" transform="translate(1.00063,-102.00036)"></rect>
+<rect id="r2" class="for_r2" x="0" y="413.72632" height="44.6781" width="8" fill="#1b9e77" fill-opacity="0" transform="translate(1.00063,-102.00036)"><title>Energia fotovoltaico:
+0.64</title></rect>
+</g>
+<g class="node">
+<rect id="r3_border" class="for_r3" x="291.30408" y="40.24877" height="262.48381" width="8" stroke="rgb(106, 47, 1)" stroke-width="8" fill="none" transform="translate(57.94038,-27.71124)"></rect>
+<rect id="r3" class="for_r3" x="291.30408" y="40.24877" height="262.48381" width="8" fill="#d95f02" fill-opacity="0" transform="translate(57.94038,-27.71124)"><title>Edificio Principale:
+3.76</title></rect>
+</g>
+<g class="node">
+<rect id="r4_border" class="for_r4" x="291.30408" y="435.78858" height="30.71619" width="8" stroke="rgb(106, 47, 1)" stroke-width="8" fill="none" transform="translate(25.53135,-76.67488)"></rect>
+<rect id="r4" class="for_r4" x="291.30408" y="435.78858" height="30.71619" width="8" fill="#d95f02" fill-opacity="0" transform="translate(25.53135,-76.67488)"><title>Edificio Laboratorio:
+0.44</title></rect>
+</g>
+<g class="node">
+<rect id="r5_border" class="for_r5" x="436.95612" y="366.0794" height="14.66" width="8" stroke="rgb(57, 55, 88)" stroke-width="8" fill="none" transform="translate(-16.69609,-50.2075)"></rect>
+<rect id="r5" class="for_r5" x="436.95612" y="366.0794" height="14.66" width="8" fill="#7570b3" fill-opacity="0" transform="translate(-16.69609,-50.2075)"><title>UTA-Clima:
+0.21</title></rect>
+</g>
+<g class="node">
+<rect id="r6_border" class="for_r6" x="436.95612" y="513.7954" height="16.05619" width="8" stroke="rgb(113, 20, 68)" stroke-width="8" fill="none" transform="translate(-0.98315,-96.43551)"></rect>
+<rect id="r6" class="for_r6" x="436.95612" y="513.7954" height="16.05619" width="8" fill="#e7298a" fill-opacity="0" transform="translate(-0.98315,-96.43551)"><title>altre utenze:
+0.23</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="17px" fill="#000000">
+<text text-anchor="middle" x="197.67037" y="577" font-size="12px" font-weight="400" fill="#336781">Made at SankeyMATIC.com</text>
+<rect id="label0_bg" class="for_r0" x="-119.72215" y="133.79063" width="114.02802" height="43.99748" rx="4.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-10.69621" y="156.40936" font-weight="400" font-size="19.70722px" dy="-1.61873">3.56<tspan x="-10.69621" dy="16.99748" font-weight="400" font-size="13.13815px">Energia importata</tspan></text>
+<rect id="label1_bg" class="for_r1" x="158.3881" y="176.54599" width="91.07984" height="43.71524" rx="4.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="start" x="164.34825" y="199.02361" font-weight="400" font-size="19.38px" dy="-1.47762">4.20<tspan x="164.34825" dy="16.71525" font-weight="400" font-size="12.92px">Energia totale</tspan></text>
+<rect id="label2_bg" class="for_r2" x="-140.1909" y="412.0928" width="134.59359" height="46.28513" rx="4.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(1.00063,-102.00036)"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="-10.69621" y="436.06536" font-weight="400" font-size="21.20015px" dy="-1.97256" transform="translate(1.00063,-102.00036)">0.64<tspan x="-10.69621" dy="18.28513" font-weight="400" font-size="14.13343px">Energia fotovoltaico</tspan></text>
+<rect id="label3_bg" class="for_r3" x="305.04015" y="148.91603" width="113.42359" height="43.90929" rx="4.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(57.94038,-27.71124)"></rect>
+<text id="label3" class="for_r3" text-anchor="start" x="310.00029" y="171.49067" font-weight="400" font-size="19.60496px" dy="-1.57464" transform="translate(57.94038,-27.71124)">3.76<tspan x="310.00029" dy="16.90928" font-weight="400" font-size="13.06997px">Edificio Principale</tspan></text>
+<rect id="label4_bg" class="for_r4" x="305.04015" y="427.92001" width="132.00773" height="46.37332" rx="4.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(25.53135,-76.67488)"></rect>
+<text id="label4" class="for_r4" text-anchor="start" x="310.00029" y="451.14667" font-weight="400" font-size="21.30241px" dy="-1.22666" transform="translate(25.53135,-76.67488)">0.44<tspan x="310.00029" dy="18.37333" font-weight="400" font-size="14.2016px">Edificio Laboratorio</tspan></text>
+<rect id="label5_bg" class="for_r5" x="450.69219" y="350.13202" width="79.15394" height="46.47473" rx="4.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-16.69609,-50.2075)"></rect>
+<text id="label5" class="for_r5" text-anchor="start" x="455.65234" y="373.4094" font-weight="400" font-size="21.42px" dy="-1.27738" transform="translate(-16.69609,-50.2075)">0.21<tspan x="455.65234" dy="18.47475" font-weight="400" font-size="14.28px">UTA-Clima</tspan></text>
+<rect id="label6_bg" class="for_r6" x="450.69219" y="498.55054" width="84.97816" height="46.46588" rx="4.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-0.98315,-96.43551)"></rect>
+<text id="label6" class="for_r6" text-anchor="start" x="455.65234" y="521.82349" font-weight="400" font-size="21.40977px" dy="-1.27297" transform="translate(-0.98315,-96.43551)">0.23<tspan x="455.65234" dy="18.46593" font-weight="400" font-size="14.27318px">altre utenze</tspan></text>
+</g>
+</g></svg>
