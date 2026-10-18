@@ -1,0 +1,67 @@
+<svg height="700" width="800" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 18/10/2026, 13:31:26 -->
+<rect height="700" width="800" fill="#ffffff"></rect>
+<g transform="translate(194.19659,83)">
+<g id="sankey_flows">
+<path id="flow2" d="M164.38125 195.02346C317.23716 195.02346 317.23716 147.41734 470.09307 147.41734" fill="none" stroke-width="271.57048" stroke="#ec1313" opacity="0.45"><title>Energia totale utilizzata Settembre 2026 → Edificio Principale: 3.76 MWh</title></path>
+<path id="flow0" d="M7 153.33272C82.19063 153.33272 82.19063 187.80084 157.38125 187.80084" fill="none" stroke-width="257.12524" stroke="#ec1313" opacity="0.45"><title>Energia importata dalla rete → Energia totale utilizzata Settembre 2026: 3.56 MWh</title></path>
+<path id="flow1" d="M7 368.91581C82.19063 368.91581 82.19063 339.47584 157.38125 339.47584" fill="none" stroke-width="46.22476" stroke="#090" opacity="0.45"><title>Energia esportata dal fotovoltaico → Energia totale utilizzata Settembre 2026: 0.64 MWh</title></path>
+<path id="flow3" d="M164.38125 346.69846C262.10021 346.69846 262.10021 385.21196 359.81918 385.21196" fill="none" stroke-width="31.77952" stroke="#ec1313" opacity="0.45"><title>Energia totale utilizzata Settembre 2026 → Edificio Laboratorio: 0.44 MWh</title></path>
+<path id="flow5" d="M366.81918 392.79571C419.48147 392.79571 419.48147 446.64585 472.14375 446.64585" fill="none" stroke-width="16.61202" stroke="#ec1313" opacity="0.45"><title>Edificio Laboratorio → altre utenze: 0.23 MWh</title></path>
+<path id="flow4" d="M366.81918 376.90595C419.48147 376.90595 419.48147 336.40534 472.14375 336.40534" fill="none" stroke-width="15.1675" stroke="#ec1313" opacity="0.45"><title>Edificio Laboratorio → UTA-Clima: 0.21 MWh</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0_border" class="for_r0" x="0" y="35.10211" height="257.12524" width="7" stroke="rgb(13, 77, 58)" stroke-width="10" fill="none" transform="translate(0,-10.332)"></rect>
+<rect id="r0" class="for_r0" x="0" y="35.10211" height="257.12524" width="7" fill="#1b9e77" fill-opacity="0" transform="translate(0,-10.332)"><title>Energia importata dalla rete:
+3.56 MWh</title></rect>
+</g>
+<g class="node">
+<rect id="r1_border" class="for_r1" x="157.38125" y="59.23822" height="303.35" width="7" stroke="rgb(13, 77, 58)" stroke-width="10" fill="none"></rect>
+<rect id="r1" class="for_r1" x="157.38125" y="59.23822" height="303.35" width="7" fill="#1b9e77" fill-opacity="0"><title>Energia totale utilizzata Settembre 2026:
+4.20 MWh</title></rect>
+</g>
+<g class="node">
+<rect id="r2_border" class="for_r2" x="0" y="450.62059" height="46.22476" width="7" stroke="rgb(13, 77, 58)" stroke-width="10" fill="none" transform="translate(0,-104.81716)"></rect>
+<rect id="r2" class="for_r2" x="0" y="450.62059" height="46.22476" width="7" fill="#1b9e77" fill-opacity="0" transform="translate(0,-104.81716)"><title>Energia esportata dal fotovoltaico:
+0.64 MWh</title></rect>
+</g>
+<g class="node">
+<rect id="r3_border" class="for_r3" x="314.7625" y="44.74498" height="271.57048" width="7" stroke="rgb(106, 47, 1)" stroke-width="10" fill="none" transform="translate(155.33057,-33.11287)"></rect>
+<rect id="r3" class="for_r3" x="314.7625" y="44.74498" height="271.57048" width="7" fill="#d95f02" fill-opacity="0" transform="translate(155.33057,-33.11287)"><title>Edificio Principale:
+3.76 MWh</title></rect>
+</g>
+<g class="node">
+<rect id="r4_border" class="for_r4" x="314.7625" y="474.7087" height="31.77952" width="7" stroke="rgb(106, 47, 1)" stroke-width="10" fill="none" transform="translate(45.05668,-105.3865)"></rect>
+<rect id="r4" class="for_r4" x="314.7625" y="474.7087" height="31.77952" width="7" fill="#d95f02" fill-opacity="0" transform="translate(45.05668,-105.3865)"><title>Edificio Laboratorio:
+0.44 MWh</title></rect>
+</g>
+<g class="node">
+<rect id="r5_border" class="for_r5" x="472.14375" y="391.72512" height="15.1675" width="7" stroke="rgb(57, 55, 88)" stroke-width="10" fill="none" transform="translate(0,-62.90353)"></rect>
+<rect id="r5" class="for_r5" x="472.14375" y="391.72512" height="15.1675" width="7" fill="#7570b3" fill-opacity="0" transform="translate(0,-62.90353)"><title>UTA-Clima:
+0.21 MWh</title></rect>
+</g>
+<g class="node">
+<rect id="r6_border" class="for_r6" x="472.14375" y="565.28587" height="16.61202" width="7" stroke="rgb(113, 20, 68)" stroke-width="10" fill="none" transform="translate(0,-126.94603)"></rect>
+<rect id="r6" class="for_r6" x="472.14375" y="565.28587" height="16.61202" width="7" fill="#e7298a" fill-opacity="0" transform="translate(0,-126.94603)"><title>altre utenze:
+0.23 MWh</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="15px" fill="#000000">
+<rect id="label0_bg" class="for_r0" x="-183.0375" y="142.30834" width="177.08696" height="41.58547" rx="3.75" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-10.332)"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-11.01364" y="163.66472" font-weight="400" font-size="18.42162px" dy="-2.26546" transform="translate(0,-10.332)">3.56 MWh<tspan x="-11.01364" dy="17.04" font-weight="400" font-size="13.61598px">Energia importata dalla rete</tspan></text>
+<rect id="label1_bg" class="for_r1" x="170.94035" y="188.65546" width="257.88466" height="43.00641" rx="3.75" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="start" x="175.39489" y="210.91322" font-weight="400" font-size="18.975px" dy="-2.25776">4.20 MWh<tspan x="175.39489" dy="17.55187" font-weight="400" font-size="14.025px">Energia totale utilizzata Settembre 2026</tspan></text>
+<rect id="label2_bg" class="for_r2" x="-190.19659" y="454.83526" width="183.6375" height="37.43178" rx="3.75" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-104.81716)"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="-11.01364" y="473.73297" font-weight="400" font-size="15.8968px" dy="-1.625" transform="translate(0,-104.81716)">0.64 MWh<tspan x="-11.01364" dy="14.70454" font-weight="400" font-size="11.74981px">Energia esportata dal fotovoltaico</tspan></text>
+<rect id="label3_bg" class="for_r3" x="328.32161" y="158.44843" width="118.24843" height="42.6545" rx="3.75" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(155.33057,-33.11287)"></rect>
+<text id="label3" class="for_r3" text-anchor="start" x="332.77614" y="180.53021" font-weight="400" font-size="18.59455px" dy="-2.08179" transform="translate(155.33057,-33.11287)">3.76 MWh<tspan x="332.77614" dy="17.19996" font-weight="400" font-size="13.7438px">Edificio Principale</tspan></text>
+<rect id="label4_bg" class="for_r4" x="328.32161" y="471.78072" width="108.75114" height="37.27181" rx="3.75" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(45.05668,-105.3865)"></rect>
+<text id="label4" class="for_r4" text-anchor="start" x="332.77614" y="490.59846" font-weight="400" font-size="15.72387px" dy="-1.54501" transform="translate(45.05668,-105.3865)">0.44 MWh<tspan x="332.77614" dy="14.54458" font-weight="400" font-size="11.62199px">Edificio Laboratorio</tspan></text>
+<rect id="label5_bg" class="for_r5" x="485.70286" y="381.22857" width="80.01533" height="36.17879" rx="3.75" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-62.90353)"></rect>
+<text id="label5" class="for_r5" text-anchor="start" x="490.15739" y="399.30887" font-weight="400" font-size="15.525px" dy="-1.71668" transform="translate(0,-62.90353)">0.21 MWh<tspan x="490.15739" dy="14.36062" font-weight="400" font-size="11.475px">UTA-Clima</tspan></text>
+<rect id="label6_bg" class="for_r6" x="485.70286" y="555.5035" width="80.10054" height="36.1949" rx="3.75" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-126.94603)"></rect>
+<text id="label6" class="for_r6" text-anchor="start" x="490.15739" y="573.59188" font-weight="400" font-size="15.54229px" dy="-1.72466" transform="translate(0,-126.94603)">0.23 MWh<tspan x="490.15739" dy="14.37662" font-weight="400" font-size="11.48778px">altre utenze</tspan></text>
+</g>
+</g></svg>
